@@ -12,4 +12,4 @@ As our project needed the multi media content we uploaded the content of the cou
 
 In my github you can also check the codes files of the project Repository named AWS-Online-Learning-Management-System but you cann't see the page live because the we used Amazon EC2 instance to host the website now the instance is currently turned off.
 
-For futher check this out https://github.com/DogiparthiAasrith/AWS_Online-Learning-Management-System
+
